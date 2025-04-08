@@ -1,0 +1,15 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "prompter_bkw",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "3.6"
+    }
+  ],
+  "generated": "2025-04-08T16:50:58.156052Z",
+  "generator": "pub",
+  "generatorVersion": "3.6.0",
+  "pubCache": "file:///C:/Users/ADMIN/AppData/Local/Pub/Cache"
+}
