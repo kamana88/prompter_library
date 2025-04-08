@@ -1,7 +1,7 @@
 name: prompter_bkw
 version: 0.0.2
 description: A library to create Command Line Interface wizards
-
+homepage: https://github.com/kamana88/prompter_library
 
 environment:
   sdk: '^3.6.0'
