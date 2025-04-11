@@ -4,7 +4,7 @@
 import 'option.dart';
 import 'terminal.dart';
 
-// instance of terminal created once when we call *ask*
+// instance of terminal created once
 // Cannot be reassigned a value
 final Terminal _terminal = const Terminal();
 

@@ -1,4 +1,3 @@
-/*
+
   This is a library to use to create a
   Command Line Interface
-*/

@@ -1,4 +1,4 @@
-import '../lib/prompter_bkw.dart';
+import 'package:prompter_bkw/prompter_bkw.dart';
 
 void main() {
   final options = [
